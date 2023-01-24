@@ -1,4 +1,4 @@
-# Indian authorities can spy on Indian internet users!
+# India's internet privacy in danger": "India's Government Surveillance: What it Means for Your Privacy
 
 India's internet privacy is in danger because the government can watch almost everyone who uses an Indian internet service provider. The Indian government has been working for years to improve online monitoring, especially after the terrorist attacks in Mumbai in 2008. But recently, there have been authoritarian orders against VPNs and a new disclosure from telecommunications officials that suggest the attack on privacy is moving into a new phase.
 
