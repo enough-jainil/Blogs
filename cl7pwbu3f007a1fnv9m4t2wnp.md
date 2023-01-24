@@ -1,76 +1,85 @@
-## 5 Awesome Libraries To Use In Your Next ReactJs Project
+# 5 Awesome Libraries To Use In Your Next ReactJs Project
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1662450871914/UEyX8PUNfc.png)
+We all know that ReactJS is a library for building user interfaces quickly, and that it is a UI library. But the ReactJS ecosystem is so rich that you can build dynamic, interactive web applications just by using some external libraries.
 
-We all know Reactjs is a UI library using which we can build user interfaces rapidly. but Reactjs ecosystem is so rich that you can build dynamic interactive web applications just by using some external libraries.
-
-In this post, we will discuss 5 Reactjs libraries you can use in your next project. we will discuss its use cases and how it can help you to build your next project without any hiccups.
+In this post, we will discuss 5 React.js libraries you can use in your next project. We will discuss its use cases and how it can help you to build your next project without any hiccups.
 
 Here is the list of libraries that we are going to discuss
 
-1.  React Flow
-2.  React Markdown
-3.  Code Mirror
-4.  React Draft WYSIWYG
-5.  React tippy
+1. React Flow
+    
+2. React Markdown
+    
+3. Code Mirror
+    
+4. React Draft WYSIWYG
+    
+5. React tippy
+    
 
 Let’s get started.
 
-[React Flow](https://reactflow.dev/docs/)
------------------------------------------
+## [React Flow](https://reactflow.dev/docs/)
 
 #### Introduction
 
-React flow is a library to build node-based applications and it is built by [webkid.io](https://webkid.io/).
+React Flow is a library to build node-based applications, and it is built by [webkid.io](https://webkid.io/).
 
 #### Use case
 
-Let’s say you want to build an application where you want to render node diagrams/flow that could be anything from static to dynamic. here we can use react flow to generate node diagrams/flow and the end-user can customize it, add a new node, update the existing node and delete the existing node.
+Let’s say you want to build an application where you would like to render node diagrams or flows that could be anything from static to dynamic. Here we can use React flow to generate node diagrams/flow and the end-user can customize it, add a new node, update the existing node and delete the existing node.
 
-#### Why use react flow over other libraries
+#### Why use React flow over other libraries
 
-*   customizable
-*   utils rich
-*   types support
-*   fast rendering
-*   and many more
+* customizable
+    
+* utils rich
+    
+* types support
+    
+* fast rendering
+    
+* and many more
+    
 
 #### Live Example
 
-Here is a live example of [OpenMetadata](https://open-metadata.org/) A Single place to Discover, Collaborate, and Get your data right that uses React flow to render entity lineage.
+Here is a live example of Open Metadata: A Single Place to Discover, Collaborate, and Get Your Data Right that uses React Flow to render entity lineage.
 
-![image.png](https://i0.wp.com/cdn.hashnode.com/res/hashnode/image/upload/v1641047040552/6qrPy9ghyy.png?w=1290&ssl=1 "5 Awesome Libraries To Use In Your Next ReactJs Project 15")
+![image.png](https://i0.wp.com/cdn.hashnode.com/res/hashnode/image/upload/v1641047040552/6qrPy9ghyy.png?w=1290&ssl=1 align="left")
 
-[React Markdown](https://github.com/remarkjs/react-markdown)
-------------------------------------------------------------
+## [React Markdown](https://github.com/remarkjs/react-markdown)
 
 #### Introduction
 
-React markdown is a markdown parser react component which can take string markdown and render it to the react element.
+React markdown is a Markdown parser react component which can take string markdown and render it to the React element.
 
 #### Use case
 
-There could be a variety of use cases for this library, let’s say you are building a blog application and the content would be in markdown so there you can use react markdown to parse the content.
+There could be a variety of use cases for this library, Let’s say you are building a blog application and the content would be in Markdown so there you can use React Markdown to parse the content.
 
-We all have used GitHub or a similar application at least once in our developer journey and know that most of the contents are in markdown format. so we can also build a tool using react markdown to create a GitHub readme profile.
+We all have used GitHub or a similar application at least once in our developer journey and know that most of the contents are in Markdown format. so, we can also build a tool using react markdown to create a GitHub readme profile.
 
 #### Why use react markdown over other libraries
 
-*   Easy to use
-*   Rich API Support
-*   Custom Component Support
-*   Extendible with plugins system
+* Easy to use
+    
+* Rich API Support
+    
+* Custom Component Support
+    
+* Extendible with plugins system
+    
 
 #### Live Example
 
 Here you can see I have built a [markdown previewer](https://sachinchaurasiya.dev/tools/markdown-previewer) using react markdown. you can write markdown and see the output side by side also you can download it as a markdown file.
 
-![image.png](https://i0.wp.com/cdn.hashnode.com/res/hashnode/image/upload/v1641047943901/22TJXqdbp.png?w=1290&ssl=1 "5 Awesome Libraries To Use In Your Next ReactJs Project 16")
+![image.png](https://i0.wp.com/cdn.hashnode.com/res/hashnode/image/upload/v1641047943901/22TJXqdbp.png?w=1290&ssl=1 align="left")
 
 (adsbygoogle = window.adsbygoogle || \[\]).push({});
 
-[Code Mirror](https://codemirror.net/)
---------------------------------------
+## [Code Mirror](https://codemirror.net/)
 
 #### Introduction
 
@@ -84,20 +93,24 @@ Here you can use code mirror to build an editor that can allow end-users to play
 
 #### Why use code mirror over other libraries
 
-*   Support for more than 100 languages
-*   Code Folding Support
-*   Support for inline and block widget
-*   Configurable bindings
-*   Used by browsers like firefox, chrome and safari.
+* Support for more than 100 languages
+    
+* Code Folding Support
+    
+* Support for inline and block widget
+    
+* Configurable bindings
+    
+* Used by browsers like firefox, chrome and safari.
+    
 
 #### Live Example
 
 Here you can see the live use case of code mirror by [Carbon](https://carbon.now.sh/) tool for creating and sharing beautiful images of your source code.
 
-![image.png](https://i0.wp.com/cdn.hashnode.com/res/hashnode/image/upload/v1641049383314/XZMTx1sO8.png?w=1290&ssl=1 "5 Awesome Libraries To Use In Your Next ReactJs Project 17")
+![image.png](https://i0.wp.com/cdn.hashnode.com/res/hashnode/image/upload/v1641049383314/XZMTx1sO8.png?w=1290&ssl=1 align="left")
 
-[React Draft WYSIWYG](https://jpuri.github.io/react-draft-wysiwyg/)
--------------------------------------------------------------------
+## [React Draft WYSIWYG](https://jpuri.github.io/react-draft-wysiwyg/)
 
 #### Introduction
 
@@ -109,19 +122,22 @@ Nowadays most of the communities/publications like `Hashnode`, `dev.to`, `med
 
 #### Why use React Draft WYSIWYG over other libraries
 
-*   You can configure toolbar options
-*   Support for Mention and Hashtags
-*   Support for emojis
-*   Support for internationalization.
+* You can configure toolbar options
+    
+* Support for Mention and Hashtags
+    
+* Support for emojis
+    
+* Support for internationalization.
+    
 
 #### Live Example
 
 Here you can see the [live example](https://jpuri.github.io/react-draft-wysiwyg) of `React Draft WYSIWYG`.
 
-![image.png](https://i0.wp.com/cdn.hashnode.com/res/hashnode/image/upload/v1641050376074/tatVaDChr.png?w=1290&ssl=1 "5 Awesome Libraries To Use In Your Next ReactJs Project 18")
+![image.png](https://i0.wp.com/cdn.hashnode.com/res/hashnode/image/upload/v1641050376074/tatVaDChr.png?w=1290&ssl=1 align="left")
 
-[React tippy](https://github.com/tvkhoa/react-tippy)
-----------------------------------------------------
+## [React tippy](https://github.com/tvkhoa/react-tippy)
 
 #### Introduction
 
@@ -133,19 +149,23 @@ The use case for React tippy is simple if you need to show some content using a 
 
 #### Why use React Tippy over other libraries
 
-*   Work well with reactjs
-*   Enhancement of Tippy.js
-*   Support multiple triggers
-*   Customizable
-*   Support for different themes
-*   Support for different sizes
+* Work well with reactjs
+    
+* Enhancement of Tippy.js
+    
+* Support multiple triggers
+    
+* Customizable
+    
+* Support for different themes
+    
+* Support for different sizes
+    
 
 #### Live Example
 
 Here you can find the live example of [react tippy](https://tvkhoa.github.io/testlib/)
 
-![image.png](https://i0.wp.com/cdn.hashnode.com/res/hashnode/image/upload/v1641051255326/zWLkU1E82.png?w=1290&ssl=1 "5 Awesome Libraries To Use In Your Next ReactJs Project 19")
+![image.png](https://i0.wp.com/cdn.hashnode.com/res/hashnode/image/upload/v1641051255326/zWLkU1E82.png?w=1290&ssl=1 align="left")
 
-And that’s it for this topic. Thank you for reading
-
-<p>The post [5 Awesome Libraries To Use In Your Next ReactJs Project](https://jainil.dev/5-awesome-libraries-to-use-in-your-next-reactjs-project/) first appeared on [Jainil Prajapati.](https://jainil.dev).</p>
+And that’s it for this topic. Thank you for reading!
