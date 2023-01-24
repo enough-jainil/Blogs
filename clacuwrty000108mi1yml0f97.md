@@ -1,4 +1,4 @@
-# Save Planet by Just Searching On internet
+# Plant Trees While Browsing with Ecosia Search Engine
 
 # How Can we Do it?
 A non-profit search engine called Ecosia uses the money it makes from advertising to plant trees.
