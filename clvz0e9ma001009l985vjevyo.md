@@ -5,7 +5,7 @@ seoDescription: "Learn about DNS servers, from how they work to building your ow
 datePublished: Thu May 09 2024 08:51:20 GMT+0000 (Coordinated Universal Time)
 cuid: clvz0e9ma001009l985vjevyo
 slug: understanding-dns-servers-build-your-own-dns-server
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715244614011/df09fe2a-55a3-4ddb-b850-7d00df7957bf.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715248230749/a34b8905-6b95-4ce0-a924-2718f199579e.png
 tags: dns, dns-records, dns-resolver
 
 ---
