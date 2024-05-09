@@ -58,8 +58,6 @@ In this example:
 
 Here's a diagram illustrating the NS resolution process:
 
-![NS Record Resolution Diagram](https://example.com/ns-record-resolution-diagram.png align="left")
-
 ## **2\. Role of NS Records in DNS Hierarchy**
 
 ### **Root and TLD Servers**
@@ -169,7 +167,7 @@ example.com.    IN  NS   ns2.example.com.
 
 ## **5\. Testing NS Records**
 
-### **Using** `dig` Command-Line Tool
+### **Using**`dig` Command-Line Tool
 
 The `dig` tool can help you verify your NS records:
 
